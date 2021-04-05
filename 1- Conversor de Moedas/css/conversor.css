@@ -1,0 +1,61 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  min-height: 400px;
+  background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.wallpapersafari.com%2F0%2F87%2FFM1spn.jpg&f=1&nofb=1');
+  background-color: #000000;
+  background-size: 150vh;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  
+  
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+}
+
+.referencia{
+   color: #ffffff;
+   margin-top: 10px;
+}
+a {
+   color: #ffffff;
+}
+a:visited {
+    color: #ffffff;
+}
+
+a:hover {
+    color: #ffffff;
+}
+
+a:active {
+    color: #ffffff;
+}
+
+a {
+ text-decoration: none;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 10px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right:10px;
+}

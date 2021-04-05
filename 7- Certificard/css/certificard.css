@@ -1,0 +1,58 @@
+body {
+  background-color: #836FFF;
+  font-family: 'Open Sans', sans-serif;
+}
+
+section h1 {
+  font-size: 25px;
+  text-align: center
+}
+
+header{
+  background-image: url('https://addons-media.operacdn.com/media/CACHE/images/themes/33/253633/1.0-rev1/images/77fe42385d7167fc35311d6b982a7ec1/1c4a55fe3ace3f93940ec90333375b8d.jpg');
+  background-size: cover;
+  height: 80px;
+  border-radius: 5px;
+}
+
+section h2 {
+  text-align: center
+}
+
+section {
+  -webkit-box-shadow: 5px 5px 50px 8px rgba(0,0,0,0.59); 
+  box-shadow: 5px 5px 50px 8px rgba(0,0,0,0.59);
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 500px;
+  margin-top: 100px;
+  background-color: #483D8B;
+  padding: 15px;
+  border-radius: 5px
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+}
+
+div {
+  padding: 15px;
+  border: 1px solid black;
+  background-color: #9370DB;
+  border-radius: 5px;    
+  
+}
+
+img{
+  border-radius: 100%;
+  max-width:150px;
+  max-height:150px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  transform: translateY(-50%);
+  border: 1px solid #778899;
+  border-radius: 100px
+}
